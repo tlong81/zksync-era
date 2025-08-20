@@ -1,4 +1,4 @@
-#!/bin/bash
+https://github.com/tlong81/zksync-era/blob/main/.githooks%2Fpre-push#!/bin/bash
 #
 # Pre-push hook verifying that inappropriate code will not be pushed.
 
